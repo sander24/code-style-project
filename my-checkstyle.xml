@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!--
+                Checkstyle-Configuration: for your local project's Checkstyle Configuration
+                Description: none
+        -->
+<!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.2//EN" "http://www.puppycrawl.com/dtds/configuration_1_2.dtd">
+<module name="Checker">
+        <property name="severity" value="warning" />
+        <module name="TreeWalker">
+                <property name="tabWidth" value="4" />
+        </module>
+</module>
