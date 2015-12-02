@@ -1,6 +1,12 @@
 package org.zeroturnaround.freetools.codestyle;
 
-public class MyClass {
+public class MyClass
+
+{  public   
+  static 
+  final 
+  int
+  HOW_THE_FCK_canYouGetYourSTyleSO_MESSED_UP = 14;
   
   
   public static void main(String[] args) {
@@ -10,6 +16,13 @@ public class MyClass {
     
         .println(    "what  an  aaawful style")
         ;
+    int a;
+    if (Math.random() > 0.5) {
+      a = 2;
+    } else {
+      a = 3;
+    }
+    System.out.println(a);
   }
   
   
